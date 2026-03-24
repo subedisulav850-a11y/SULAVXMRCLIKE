@@ -1,0 +1,12 @@
+{
+  "admins": [],
+  "banned": [],
+  "warnings": {},
+  "maintenance": false,
+  "tokens": {},
+  "auto_tasks": [],
+  "likes_per_day": 100000,
+  "total_likes_sent": 0,
+  "total_visits_sent": 0,
+  "total_spam_sent": 0
+}
